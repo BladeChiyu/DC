@@ -29,6 +29,7 @@ Requests examples:
 
 > - Adding skill translations to child(s)
 > - Requesting easter eggs or memes to the patch
+<br>
 DM me your request if you donate and I will try to add to to the patch ASAP
 <br>
 <br>
