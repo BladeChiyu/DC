@@ -19,6 +19,8 @@ Q: What if I find mistranslated text?
 <br>
 A: As long as it's not something nitpicking my grammer... DM me it with a screenshot and I will check it out. 
 <br>
+<br>
+<br>
 Donation link: https://ko-fi.com/bladechu
 <br>
 For anyone that donates, I will take translation requests 
