@@ -17,7 +17,17 @@ A: Steps to apply patch:
 <br>
 Q: What if I find mistranslated text?
 <br>
-A: DM me it if it is related to equipment options; otherwise, ignore it
+A: As long as it's not something nitpicking my grammer... DM me it with a screenshot and I will check it out. 
+<br>
+Donation link: https://ko-fi.com/bladechu
+<br>
+For anyone that donates, I will take translation requests 
+<br>
+Requests examples:
+
+> - Adding skill translations to child(s)
+> - Requesting easter eggs or memes to the patch
+DM me your request if you donate and I will try to add to to the patch ASAP
 <br>
 <br>
 <br>
